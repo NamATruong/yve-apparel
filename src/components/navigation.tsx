@@ -79,7 +79,7 @@ export default function Navigation({ children }: { children: React.ReactNode; })
                 }
             </AnimatePresence>
 
-            <button type="button" onClick={() => setIsOpen(prev => !prev)} className="w-6 sm:w-8 h-fit text-white cursor-pointer hover:outline-2 focus-visible:outline-2 outline-offset-1 outline-zinc-100/20 focus-visible:outline-white rounded-lg">
+            <button type="button" onClick={() => setIsOpen(prev => !prev)} className="w-6 sm:w-8 h-fit text-[#505C45] cursor-pointer hover:outline-2 focus-visible:outline-2 outline-offset-1 outline-[#505C45]/20 focus-visible:outline-[#505C45] rounded-lg">
                 {isOpen ?
                     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" aria-hidden>
                         <title>Close Menu Icon</title>

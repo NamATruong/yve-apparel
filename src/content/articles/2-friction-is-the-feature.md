@@ -1,10 +1,10 @@
 ---
 isDraft: false
-title: friction is the feature
-snippet: in a world where everything is free, nothing is valued.
-slug: friction-is-the-feature
-author: signull
-category: AI
+title: Blog 2
+snippet: Short description.
+slug: blog-2
+author: Person name 2
+category: Category 2
 readingDuration: 1
 pubDate: 2025 4 12
 coverAlt: friction is the feature cover

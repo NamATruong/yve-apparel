@@ -1,10 +1,10 @@
 ---
 isDraft: false
-title: AI adoption is a UX problem
-snippet: We have plenty of intelligence. The problem is making it usable
-slug: ai-adoption-is-a-ux-problem
-author: Nan Yu
-category: AI
+title: Blog 3
+snippet: Short description.
+slug: blog-3
+author: Person name 3 
+category: Category 3
 readingDuration: 1
 pubDate: 2025 4 10
 coverAlt: Tobi Lutke - Shopify CEO - I heard this internal memo of mine is being leaked right now, so here it is

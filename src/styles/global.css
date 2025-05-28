@@ -3,4 +3,13 @@
 
 @theme inline {
 	--font-sans: var(--font-geist);
+	--font-serif: 'Cormorant Garamond', serif;
+	--font-weight-serif: 500;
+}
+
+/* Ensure Cormorant Garamond loads with proper weight */
+.font-serif, body.font-serif {
+	font-family: 'Cormorant Garamond', serif;
+	font-weight: 500;
+	font-display: swap;
 }

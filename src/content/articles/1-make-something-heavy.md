@@ -1,10 +1,10 @@
 ---
 isDraft: false
-title: Make Something Heavy
-snippet: We're creating more than ever, but it weighs nothing.
-slug: make-something-heavy
-author: Anu Atluru 
-category: Craft
+title: Blog 1
+snippet: Short description.
+slug: blog-1
+author: Person name 1 
+category: Category 1
 readingDuration: 1
 pubDate: 2025 3 9
 coverAlt: Women Holding Things - Maira Kalman, 2022.
